@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.soyyodigital.ESYDScannerApp" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.soyyodigital.ESYDScannerApp" version="1.1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Eventos Soy Yo Digital</name>
     <description>Esta aplicación se utiliza para registrar a los asistentes a los eventos mediante el escaneo del código QR que se encuentra en las entradas compradas en Soy Yo Digital</description>
     <author email="comercial@soyyo.digital" href="https://soyyo.digital/">Mtr Solution</author>
